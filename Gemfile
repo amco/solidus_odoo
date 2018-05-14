@@ -11,6 +11,7 @@ gem 'solidus_auth_devise', '~> 1.0'
 
 group :test, :development do
   gem 'rspec-rails', '~> 3.0.0'
+  gem 'ffaker'
 end
 
 gemspec
